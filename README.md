@@ -73,7 +73,7 @@
 
 ```bash
 # 下载脚本
-git clone <repo-url>
+git clone https://github.com/honey1000001001/cpu_stress
 cd cpu-stress-daemon
 
 # 设置权限
@@ -389,7 +389,7 @@ grep -E "ERROR|FATAL|WARN" ~/.cpu_stress/log/cpu_stress.log
 
 ## 📄 许可证
 
-内部工具，仅供授权使用。
+MIT
 
 ---
 
